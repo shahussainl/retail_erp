@@ -1,0 +1,41 @@
+.padding-b-30{
+    padding-bottom: 30px; 
+}
+
+.featured-label-1{
+    position: absolute;
+    top: 0px;
+    font-size: 14px;
+    border-radius: 0px;
+}
+
+.featured-label-2{
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    border-radius: 0px;
+    width: 40%;
+    text-align: left;
+    padding: 15px;
+    font-size: 14px;
+}
+
+.box-header>.fa, .box-header>.glyphicon, .box-header>.ion, .box-header .box-title {
+    display: inline-block;
+    font-size: 22px;
+    padding: 10px 0px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 1;
+}
+
+.opacity{
+    opacity: 0.5;
+}
+
+.featured-box-2{
+    overflow: hidden;
+}
+
+
+
